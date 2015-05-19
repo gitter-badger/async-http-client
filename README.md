@@ -1,6 +1,8 @@
 Async Http Client
 -----------------
 
+[![Join the chat at https://gitter.im/flipkart-incubator/async-http-client](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/flipkart-incubator/async-http-client?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Getting started [HTML](http://sonatype.github.com/async-http-client/) [PDF](http://is.gd/kexrN)
                 With [WebSockets](http://jfarcand.wordpress.com/2011/12/21/writing-websocket-clients-using-asynchttpclient/)
 
